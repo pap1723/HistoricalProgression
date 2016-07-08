@@ -4,7 +4,7 @@ This contract pack is designed to take you through the history of the human spac
 
 This contract pack takes you from the first sounding rockets to New Horizons and into the future. You will be tasked with recreating some of the most ambitious missions like the Apollo Program, Voyager and the International Space Station. It is up to you to guide the Kerbals into the cosmos through a historical progression.
 
-**HISTORICAL PROGRESSION MISSIONS**
+**HISTORICAL PROGRESSION CONTRACTS**
 * Sounding Rocket	- First Launches
 * V-2	- First Suborbital Flight
 * Sputnik	- First Satellite
@@ -101,3 +101,36 @@ This contract pack takes you from the first sounding rockets to New Horizons and
 * Hayabusa - First Ascent from Asteroid, First Sample Return from Asteroid Surface
 * MESSENGER - First Orbit Mercury
 * New Horizons - First Flyby Pluto
+
+**REQUIRED MODS**
+* Contract Configurator - http://forum.kerbalspaceprogram.com/threads/101604
+* Module Manager - http://forum.kerbalspaceprogram.com/threads/55219
+
+**HIGHLY, HIGHLY, HIGHLY RECOMMENDED MODS**
+These are not nessecary to use the contract pack, but it makes the pack much better
+* Unmanned Before Manned - http://forum.kerbalspaceprogram.com/threads/106130
+  * This lets you start with the proper probe cores instead of manned missions, the contract pack might not be possible to complete without this or something similar
+* Outer Planets Mod - http://forum.kerbalspaceprogram.com/index.php?/topic/93999-112-outer-planets-mod-20-complete-overhaul-better-terrain-nicer-terrain-textures-improved-scatter-etc-21-may/
+  * If you are playing with stock KSP, this will give you the extra planets that simulate the outer solar system and will allow you to explore these places with contracts like New Horizons and Voyager 1 and 2
+* DMagic Orbital Science - http://forum.kerbalspaceprogram.com/index.php?/topic/59009-113-dmagic-orbital-science-new-science-parts-v132-6272016/
+  * This gives you more science experiments to use on your various missions around the solar system
+* SCANsat - http://forum.kerbalspaceprogram.com/index.php?/topic/72679-113-scansat-v163-real-scanning-real-science-at-warp-speed-june-27-2016/
+  * This provides you with parts to map the planets in the solar system. The contracts have support for Scanning missions if SCANsat is installed.
+
+
+**NOTES**
+* The contract removes the World Firsts and Explore Body stock missions as we are already covering this with the pack
+* This contract pack works with all planet packs, but you will experience some weird contracts if your Home planet is not the 3rd rock from the sun
+* Full support for Stock, Stock x2, Stock x6.4, Outer Planets Mod
+* Full support for Real Solar System, Half Size Real Solar System, Stock Size Real Solar System
+* I do not know how this will play with other Contract Packs unless listed below, as it is designed to go through all major "firsts" of our space history so will duplicate similar contracts from other packs
+
+**COMPATIBLE CONTRACT PACKS**
+* Anomoly Surveyor
+* AntennaRange Relays
+* Clever Sats
+* Field Research
+* Giving Aircraft a Purpose (GAP)
+* Kerbal Academy
+* Maritime Mission Pack
+* RemoteTech Contract Pack
