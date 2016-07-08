@@ -6,8 +6,9 @@ This contract pack takes you from the first sounding rockets to New Horizons and
 
 Some of these contracts are very involved and require you to use gravity assists to accomplish the contract parameters. Others give you the option to complete certain goals in order to gain bonuses. For example, in your Space Shuttle contracts, you get bonus funds if you land your shuttle on the Runway back at KSC. One of the best examples of this is the MESSENGER contract. It requires you to enter a polar orbit of the first planet in the solar system. We will use the stock system  with the Real Solar System planets as an example.
 
-**MESSENGER Contract Parameters**
+**MESSENGER Contract Parameters
 General Goal: Design an unmanned craft to Orbit Moho (Mercury) with a minimum Inclination of 70 degrees
+
 1. Design an unmanned craft with an antenna (also with 3 SCANsat scanners if you have the mod installed)
 2. Launch MESSENGER
 3. Enter Orbit of the Sun
