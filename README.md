@@ -6,7 +6,8 @@ This contract pack takes you from the first sounding rockets to New Horizons and
 
 Some of these contracts are very involved and require you to use gravity assists to accomplish the contract parameters. Others give you the option to complete certain goals in order to gain bonuses. For example, in your Space Shuttle contracts, you get bonus funds if you land your shuttle on the Runway back at KSC. One of the best examples of this is the MESSENGER contract. It requires you to enter a polar orbit of the first planet in the solar system. We will use the stock system  with the Real Solar System planets as an example.
 
-**MESSENGER Contract Parameters
+### MESSENGER Contract Parameters
+
 General Goal: Design an unmanned craft to Orbit Moho (Mercury) with a minimum Inclination of 70 degrees
 
 1. Design an unmanned craft with an antenna (also with 3 SCANsat scanners if you have the mod installed)
@@ -128,7 +129,7 @@ Most of the missions are not that difficult or that involved, but MESSENGER was 
 
 **HIGHLY, HIGHLY, HIGHLY RECOMMENDED MODS**
 These are not nessecary to use the contract pack, but it makes the pack much better
-* **Unmanned Before Manned - (http://forum.kerbalspaceprogram.com/threads/106130) **
+* Unmanned Before Manned - (http://forum.kerbalspaceprogram.com/threads/106130)
   * This lets you start with the proper probe cores instead of manned missions, the contract pack might not be possible to complete without this or something similar
 * Outer Planets Mod - (http://forum.kerbalspaceprogram.com/index.php?/topic/93999-112-outer-planets-mod-20-complete-overhaul-better-terrain-nicer-terrain-textures-improved-scatter-etc-21-may/)
   * If you are playing with stock KSP, this will give you the extra planets that simulate the outer solar system and will allow you to explore these places with contracts like New Horizons and Voyager 1 and 2
