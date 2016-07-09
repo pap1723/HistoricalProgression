@@ -232,5 +232,10 @@ There are many part mods to consider that will give you the ability to construct
 CC-BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **CHANGELOG**
+1.01 - July 9, 2016
+* Fixed some text on Explorer 6 mission
+* Modified some Duna / Mars contracts for stability
+* Added main logo in anticipation of Contract Configurator 1.15
+
 1.0 - July 8, 2016
 * Initial Release
