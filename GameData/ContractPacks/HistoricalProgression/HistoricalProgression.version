@@ -1,30 +1,31 @@
 {
-  "NAME": "HistoricalProgression",
-  "URL": "https://github.com/pap1723/HistoricalProgression/GameData/ContractPacks/HistoricalProgression/HistoricalProgression.version",
-  "DOWNLOAD": "https://github.com/pap1723/HistoricalProgression/releases/"
-  "GITHUB":{
-	"USERNAME":"pap1723",
-	"REPOSITORY":"HistoricalProgression"
-	"ALLOW_PRE_RELEASE":false
-  },
-  "VERSION": {
-    "MAJOR": 1,
-    "MINOR": 1,
-    "PATCH": 0
-  },
-  "KSP_VERSION": {
-    "MAJOR": 1,
-    "MINOR": 1,
-	"PATCH": 3
-  },
-  "KSP_VERSION_MIN": {
-    "MAJOR": 1,
-    "MINOR": 1,
-	"PATCH": 2
-  },
-  "KSP_VERSION_MAX": {
-    "MAJOR": 1,
-    "MINOR": 1,
-	"PATCH": 99
-  }
+	"NAME":"Contract Pack: Historical Progression",
+	"URL":"http://ksp-avc.cybutek.net/version.php?id=321",
+	"DOWNLOAD":"http://spacedock.info/mod/829/Contract%20Pack:%20Historical%20Progression",
+	"CHANGE_LOG_URL":"http://spacedock.info/mod/829/Contract%20Pack:%20Historical%20Progression",
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":1,
+		"PATCH":3
+	},
+	"KSP_VERSION_MIN":
+	{
+		"MAJOR":1,
+		"MINOR":1,
+		"PATCH":2
+	},
+	"KSP_VERSION_MAX":
+	{
+		"MAJOR":1,
+		"MINOR":1,
+		"PATCH":5
+	}
 }

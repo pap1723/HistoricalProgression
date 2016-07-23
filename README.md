@@ -232,6 +232,55 @@ There are many part mods to consider that will give you the ability to construct
 CC-BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **CHANGELOG**
+
+1.2 - July 23, 2016
+
+* Massive Behind the Scenes Overhaul to prepare release for Contract Configurator Update
+* Freedom 7 - Moved to Optional
+* Vostok 2 - Available after Vostok-1
+* Mir: Kvant - Changed Requirement to be finished Mir mission
+* Mars 2 - REMOVED - Was a failed mission as it crashed into Mars
+* Mars 3 - REMOVED - Was a failed mission since it did not communicate with Earth on landing
+* Helios - Fixed Mission Description to give correct Orbital Distance
+* NEW! Optional Missions
+  * Moon Missions
+    * Surveyor 1 - Unmanned Lunar Lander
+	* Luna 13 - Unmanned Lunar Lander
+	* Surveyor 3 - Unmanned Lunar Lander
+	* Surveyor 5 - Unmanned Lunar Lander
+	* Surveyor 6 - Unmanned Lunar Lander
+	* Surveyor 7 - Unmanned Lunar Lander
+	* Lunokhod-2 - Unmanned Lunar Rover
+  * Mars Missions
+    * Viking 2 - Unmanned Mars/Duna Lander
+  * Mir
+    * Kristall - Mir Module
+	* Soyuz TM-18 - 437 Days in Space
+	* Spektr - Mir Module
+	* STS-71 - Space Shuttle Docking to Mir
+	* STS-74 Mir Docking Module - Mir Module Launched by Space Shuttle
+	* Priroda - Mir Module
+	* Soyuz TM-31 - Last Human Spaceflight to Mir
+	* Mir Deorbit
+
+1.1 - July 12, 2016
+
+* V-2 - Removed the need to destroy the rocket at the end of the contract, was not allowing completion in some cases
+* Sputnik 2 - Moved to OPTIONAL (mission is essentially the same as Sputnik)
+* Explorer 1 - Moved to OPTIONAL (mission is essentially the same as Sputnik)
+* Explorer 6 - Moved to OPTIONAL (mission is essentially the same as Sputnik)
+* NEW: Dawn (orbit around giant asteroid, Dres in stock or Vesta & Ceres in Half Size RSS, will not show up in regular RSS)
+* NEW: Kepler (first telescope to look for exoplanets)
+* NEW: Juno (first mission to enter polar orbit of Jupiter)
+* Removed duplicate descriptions
+* Kosmos 186 & Kosmos 188 Contract - Fixed the way the docking vessels were treated not allowing the contract to complete
+* Luna 10 and Zond 5 Contracts - Fixed an issue where they were offered multiple of times
+* Apollo 4 - Fixed the way the Crew Capacity was handled so players could include a Lander for their test as well
+* Apollo Program - Fixed the wording on the contracts to better let the player know the Parking Orbit requirements
+* Changed Antenna requirements to read Transmission Devices for clarity for player
+* Syncom 2 and Syncom 3 Contracts - Changed orbital requirements to require closer to a circular orbit
+* Gemini 7 & Gemini 6A Contract - Completely re-wrote to work more consistently
+
 1.01 - July 9, 2016
 * Fixed some text on Explorer 6 mission
 * Modified some Duna / Mars contracts for stability
