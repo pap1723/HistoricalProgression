@@ -233,6 +233,17 @@ CC-BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **CHANGELOG**
 
+1.3 - August 22, 2016
+
+* Brand New Financial Reward System - This is completely based on the radius of your Home Planet. If you have a larger size Homeworld such as a resized Kerbin or RSS build, then the funds rewards will adjust accordingly to meet the increase costs required to accomplish mission goals
+* Zond Orbit Parameters updated
+* REMOVED: Venera 3 as it was essentailly a failed mission and Venera 4 was a repeat
+* Fixed Phobos 2 prerequisite to allow mission to actually fire correctly
+* Adding correct sorting for all contracts so they will show up in order in the Mission Control building interface
+* Fixed prestige settings of all missions
+* Apollo 14 and Apollo 16 will go to Minmus (unless you have some version of RSS installed and then it will be the Moon)
+* Fixed issue where Venera 9 wouldn't check off Orbit Parameter when switching to the Lander
+
 1.2 - July 23, 2016
 
 * Massive Behind the Scenes Overhaul to prepare release for Contract Configurator Update
