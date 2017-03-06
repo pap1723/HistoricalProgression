@@ -233,6 +233,18 @@ CC-BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **CHANGELOG**
 
+1.5 - March 6, 2017
+* Fixed secondary Apoapsis in Apollo 4 to make it be on the correct side of the Mun in stock sizes!
+* Fixed Gemini 8 mission for the proper docking
+* Fixed Shuttle Missions so that you get the credit for Returning Home
+* Fixed the Space Station missions to mark parameters as completed correctly
+
+
+1.4 - January 27, 2017
+* Fixed mission for Gemini 7 / Gemini-6
+* Fixed Apollo missions, can now be completed with the Rover
+* Removed requirements for probes to  have antenna - with the new Coms system in 1.2 it was duplicative
+
 1.3 - August 22, 2016
 
 * Brand New Financial Reward System - This is completely based on the radius of your Home Planet. If you have a larger size Homeworld such as a resized Kerbin or RSS build, then the funds rewards will adjust accordingly to meet the increase costs required to accomplish mission goals
