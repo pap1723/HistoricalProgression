@@ -233,6 +233,11 @@ CC-BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **CHANGELOG**
 
+1.6 - April 24, 2017
+* Small fixes to many missions to fix completion issues
+* Fix to STS-41B by removing the EVA as it was not working correctly
+* Fix Apollo Rover missions by allowing player to accopmlish mission using a separate craft from lander
+
 1.5 - March 6, 2017
 * Fixed secondary Apoapsis in Apollo 4 to make it be on the correct side of the Mun in stock sizes!
 * Fixed Gemini 8 mission for the proper docking
